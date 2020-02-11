@@ -1,0 +1,18 @@
+.banner{background-image:url("../../images/gym.jpg");
+		size: cover;
+		background-position: center;
+		color: white;
+		padding:300px 0px;
+		margin: 10px}
+
+.banner h1{font-size:100px ;
+		padding: 5px;
+		   color: white }
+
+.banner p{font-size:30px ;
+		   opacity: 0.8 ;
+		   color: white}
+
+.banner a{transform-style: none}
+
+
